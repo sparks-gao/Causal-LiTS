@@ -1,0 +1,456 @@
+LiTS_0:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_1:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_10:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_100:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_101:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_102:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+LiTS_103:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_104:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_107:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_108:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_109:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_11:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_110:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_111:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_112:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_113:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_116:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_117:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_118:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_12:A CT image of the liver with tumor, showing a single lesion of small size.
+LiTS_120:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_121:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_122:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_123:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_124:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_125:A CT image of the liver with tumor, showing a single lesion of small size.
+LiTS_126:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_127:A CT image of the liver with tumor, showing a single lesion of small size.
+LiTS_128:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_129:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_13:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_130:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_14:A CT image of the liver with tumor, showing a multiple lesion of small size.
+LiTS_15:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+LiTS_16:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_17:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_18:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_19:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_2:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+LiTS_20:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_21:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_22:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_23:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_24:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+LiTS_25:A CT image of the liver with tumor, showing a multiple lesion of small size.
+LiTS_26:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_27:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_28:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_29:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+LiTS_3:A CT image of the liver with tumor, showing a multiple lesion of small size.
+LiTS_30:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_31:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_33:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_35:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_36:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_37:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_39:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_4:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_40:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_42:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_43:A CT image of the liver with tumor, showing a single lesion of moderate size.
+LiTS_44:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_45:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+LiTS_46:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_48:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_49:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_5:A CT image of the liver with tumor, showing a multiple lesion of small size.
+LiTS_50:A CT image of the liver with tumor, showing a single lesion of small size.
+LiTS_51:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_52:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_53:A CT image of the liver with tumor, showing a single lesion of large size.
+LiTS_54:A CT image of the liver with tumor, showing a single lesion of large size.
+LiTS_55:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_56:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_57:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_58:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_59:A CT image of the liver with tumor, showing a single lesion of moderate size.
+LiTS_6:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_60:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_61:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_62:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_63:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_64:A CT image of the liver with tumor, showing a single lesion of large size.
+LiTS_65:A CT image of the liver with tumor, showing a multiple lesion of small size.
+LiTS_66:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_67:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+LiTS_68:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_69:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_7:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_70:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_71:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_72:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_73:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_74:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_75:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_76:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_77:A CT image of the liver with tumor, showing a single lesion of large size.
+LiTS_78:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_79:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_8:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_80:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_81:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+LiTS_82:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_83:A CT image of the liver with tumor, showing a multiple lesion of small size.
+LiTS_84:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_85:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_86:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_88:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_9:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_90:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_92:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_93:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_94:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_95:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+LiTS_96:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_97:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_98:A CT image of the liver with tumor, showing a multiple lesion of large size.
+LiTS_99:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_001:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_002:A CT image of the liver with tumor, showing multiple lesions.
+HCC_003:A CT image of the liver with tumor, showing multiple lesions.
+HCC_004:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_005:A CT image of the liver with tumor, showing multiple lesions.
+HCC_006:A CT image of the liver with tumor, showing single lesions.
+HCC_007:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_008:A CT image of the liver with tumor, showing single lesions.
+HCC_009:A CT image of the liver with tumor, showing multiple lesions.
+HCC_010:A CT image of the liver with tumor, showing single lesions.
+HCC_011:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_012:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_013:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_014:A CT image of the liver with tumor, showing single lesions.
+HCC_015:A CT image of the liver with tumor, showing a single lesion of large size.
+HCC_016:A CT image of the liver with tumor, showing single lesions.
+HCC_017:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+HCC_018:A CT image of the liver with tumor, showing multiple lesions.
+HCC_019:A CT image of the liver with tumor, showing single lesions.
+HCC_020:A CT image of the liver with tumor, showing single lesions.
+HCC_021:A CT image of the liver with tumor, showing multiple lesions.
+HCC_022:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+HCC_023:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_024:A CT image of the liver with tumor, showing single lesions.
+HCC_025:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_026:A CT image of the liver with tumor, showing single lesions.
+HCC_027:A CT image of the liver with tumor, showing single lesions.
+HCC_028:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+HCC_029:A CT image of the liver with tumor, showing single lesions.
+HCC_030:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+HCC_031:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_032:A CT image of the liver with tumor, showing single lesions.
+HCC_033:A CT image of the liver with tumor, showing single lesions.
+HCC_034:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+HCC_035:A CT image of the liver with tumor, showing single lesions.
+HCC_036:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_037:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_038:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_039:A CT image of the liver with tumor, showing a single lesion of large size.
+HCC_040:A CT image of the liver with tumor, showing single lesions.
+HCC_041:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_042:A CT image of the liver with tumor, showing a single lesion of large size.
+HCC_043:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+HCC_044:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_045:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_046:A CT image of the liver with tumor, showing multiple lesions.
+HCC_047:A CT image of the liver with tumor, showing single lesions.
+HCC_048:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_049:A CT image of the liver with tumor, showing single lesions.
+HCC_050:A CT image of the liver with tumor, showing a single lesion of moderate size.
+HCC_051:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_052:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_053:A CT image of the liver with tumor, showing multiple lesions.
+HCC_054:A CT image of the liver with tumor, showing multiple lesions.
+HCC_055:A CT image of the liver with tumor, showing a single lesion of moderate size.
+HCC_056:A CT image of the liver with tumor, showing multiple lesions.
+HCC_057:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_058:A CT image of the liver with tumor, showing single lesions.
+HCC_059:A CT image of the liver with tumor, showing a single lesion of large size.
+HCC_060:A CT image of the liver with tumor, showing single lesions.
+HCC_061:A CT image of the liver with tumor, showing single lesions.
+HCC_062:A CT image of the liver with tumor, showing a single lesion of large size.
+HCC_063:A CT image of the liver with tumor, showing multiple lesions.
+HCC_064:A CT image of the liver with tumor, showing multiple lesions.
+HCC_065:A CT image of the liver with tumor, showing single lesions.
+HCC_066:A CT image of the liver with tumor, showing a single lesion of large size.
+HCC_067:A CT image of the liver with tumor, showing single lesions.
+HCC_068:A CT image of the liver with tumor, showing single lesions.
+HCC_069:A CT image of the liver with tumor, showing a single lesion of moderate size.
+HCC_070:A CT image of the liver with tumor, showing single lesions.
+HCC_071:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_072:A CT image of the liver with tumor, showing multiple lesions.
+HCC_073:A CT image of the liver with tumor, showing multiple lesions.
+HCC_074:A CT image of the liver with tumor, showing single lesions.
+HCC_075:A CT image of the liver with tumor, showing multiple lesions.
+HCC_076:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+HCC_077:A CT image of the liver with tumor, showing single lesions.
+HCC_078:A CT image of the liver with tumor, showing a single lesion of moderate size.
+HCC_079:A CT image of the liver with tumor, showing a single lesion of large size.
+HCC_080:A CT image of the liver with tumor, showing single lesions.
+HCC_081:A CT image of the liver with tumor, showing single lesions.
+HCC_082:A CT image of the liver with tumor, showing a single lesion of moderate size.
+HCC_083:A CT image of the liver with tumor, showing single lesions.
+HCC_084:A CT image of the liver with tumor, showing single lesions.
+HCC_085:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+HCC_086:A CT image of the liver with tumor, showing a single lesion of moderate size.
+HCC_087:A CT image of the liver with tumor, showing multiple lesions.
+HCC_088:A CT image of the liver with tumor, showing single lesions.
+HCC_089:A CT image of the liver with tumor, showing multiple lesions.
+HCC_090:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_091:A CT image of the liver with tumor, showing single lesions.
+HCC_092:A CT image of the liver with tumor, showing a single lesion of moderate size.
+HCC_093:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_094:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_095:A CT image of the liver with tumor, showing a single lesion of small size.
+HCC_096:A CT image of the liver with tumor, showing single lesions.
+HCC_097:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_098:A CT image of the liver with tumor, showing single lesions.
+HCC_099:A CT image of the liver with tumor, showing a multiple lesion of large size.
+HCC_100:A CT image of the liver with tumor, showing a single lesion of large size.
+HCC_101:A CT image of the liver with tumor, showing a single lesion of moderate size.
+HCC_102:A CT image of the liver with tumor, showing single lesions.
+HCC_103:A CT image of the liver with tumor, showing a multiple lesion of small size.
+HCC_104:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+HCC_105:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_2:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_3:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_5:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_7:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_8:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_10:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_13:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_14:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_15:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_16:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_18:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_19:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_20:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_21:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_23:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_24:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_25:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_26:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_27:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_28:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_29:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_31:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_33:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_34:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_35:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_36:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_37:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_38:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_39:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_41:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_42:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_43:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_44:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_45:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_46:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_47:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_48:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_50:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_53:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_54:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_56:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_57:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_58:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_59:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_60:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_61:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_62:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_63:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_65:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_66:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_67:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_69:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_72:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_73:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_74:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_77:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_79:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_80:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_81:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_83:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_84:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_85:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_86:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_87:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_88:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_89:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_90:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_91:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_92:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_93:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_94:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_95:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_96:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_98:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_99:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_101:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_102:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_103:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_104:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_108:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_111:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_112:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_114:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_115:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_116:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_118:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_119:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_121:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_125:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_126:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_127:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_134:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_135:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_139:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_142:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_144:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_146:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_149:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_150:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_158:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_165:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_167:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_168:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_169:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_171:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_179:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_184:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_188:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_190:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_192:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_193:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_197:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_198:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_303:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_304:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_310:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_315:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_318:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_319:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_324:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_325:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_326:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_327:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_328:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_330:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_332:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_333:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_334:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_335:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_336:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_337:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_338:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_339:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_342:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_343:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_344:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_345:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_347:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_349:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_350:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_351:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_353:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_354:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_356:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_358:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_360:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_363:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_366:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_367:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_368:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_369:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_370:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_371:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_372:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_373:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_374:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_375:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_378:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_379:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_380:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_381:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_382:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_383:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_385:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_388:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_390:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_393:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_394:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_396:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_399:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_404:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_405:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_434:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_436:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_437:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_438:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_439:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_440:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_442:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_443:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_446:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_447:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_450:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_451:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_452:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_453:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_455:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_456:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_457:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_458:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_460:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_462:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_463:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_465:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_466:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_469:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_474:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_477:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_483:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_484:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_485:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_486:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_487:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_490:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_491:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_492:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_493:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_494:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_496:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_498:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_500:A CT image of the liver with tumor, showing a multiple lesion of small size.
+WAW_501:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_502:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_503:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_508:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_510:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_512:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_514:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_515:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_517:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_518:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_519:A CT image of the liver with tumor, showing a multiple lesion of moderate size.
+WAW_521:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_522:A CT image of the liver with tumor, showing a multiple lesion of large size.
+WAW_524:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_525:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_527:A CT image of the liver with tumor, showing a single lesion of small size.
+WAW_531:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_533:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_537:A CT image of the liver with tumor, showing a single lesion of large size.
+WAW_539:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_540:A CT image of the liver with tumor, showing a single lesion of moderate size.
+WAW_543:A CT image of the liver with tumor, showing a single lesion of small size.
