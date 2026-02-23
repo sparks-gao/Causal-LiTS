@@ -169,7 +169,7 @@ class InstanceAwareHSICLoss(nn.Module):
             return torch.tensor(0., device=dp.device)
         return loss / count + self.l1 * gate.abs().mean()
 
-class UNetEncoder(nn.Module):
+class Spatial_location_Encoder(nn.Module):
     def __init__(self, in_ch=3, out_ch=256):
         super().__init__()
         self.conv1 = self.block(in_ch, 64)
@@ -276,7 +276,7 @@ class CausalCLIPSeg(nn.Module):
         self.proto = InstanceAwareContrast(tau=0.07)
         self.gate = CausalGate(visual_dim)
         self.causal_loss = InstanceAwareHSICLoss(l1=1e-3)
-        self.spatial_encoder = UNetEncoder(in_ch=3, out_ch=256)
+        self.spatial_encoder = Spatial_location_Encoder(in_ch=3, out_ch=256)
         self.decoder = CausalUNetDecoder(visual_dim)
         self.boundary_loss = BoundaryLoss() 
 
